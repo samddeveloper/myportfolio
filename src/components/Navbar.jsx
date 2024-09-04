@@ -14,7 +14,7 @@ const Navbar = () => {
       <Toolbar>
         <Typography variant="h6" sx={{ flexGrow: 1 }}></Typography>
         <Button color="inherit" href="#home">
-          Home
+          Hem
         </Button>
         <Button color="inherit" href="#about">
           About Me
